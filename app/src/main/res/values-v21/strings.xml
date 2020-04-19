@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="menu_walk">Walk Trail</string>
+    <string name="menu_beach">Beach</string>
+    <string name="menu_city">City</string>
+    <string name="menu_show">Show</string>
+    <string name="menu_about">About us</string>
+    <string name="tour_guide_app">Tour Guide App</string>
+    <string name="info_chaacho_com">info@chaacho.com</string>
+</resources>
