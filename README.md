@@ -7,7 +7,7 @@ Once you've decided on the location you'd like to show off, you'll want to build
 Next, you'll fill in those lists with list items, populated using a custom adapter. It may make sense for some lists to include information such as a phone number or business hours, but for others it may make more sense to have a photograph. Design your adapter based on the information you would like to show.
 
 If you need help generating bitmaps for your project, refer back to the Generating Your Own Bitmaps concept.
-![Prototype Demo]()
+
 
 Your project will be evaluated using the Tour Guide App project rubric.
 <div id="proj-spec-div" class="col-xs-offset-1 col-xs-10"> <h2 id="project-spec-headline" translate="" class="ng-scope">Project Specification</h2> <h3 id="project-name" ng-bind-html="localize(ctrl.rubric.project, 'name', markup=true)" class="ng-binding"><p>Tour Guide App</p>
@@ -53,4 +53,5 @@ Your project will be evaluated using the Tour Guide App project rubric.
 </ul>
 <p>The code also has proper indentation when defining variables and methods.</p>
 </td> <!-- ngIf: settings.showReviewerTips --> <!-- ngIf: settings.showCompletedChecklist --> </tr><!-- end ngRepeat: rubricItem in section.rubric_items --> </tbody> </table> </div><!-- end ngRepeat: section in rubric.sections --> </div> <!-- ngIf: ctrl.rubric.stand_out --> </div>
+![IMAGE] (https://github.com/androidtenerife/Tour_Guide_App/blob/master/Udacity%20proyect%206.jpg)
 
