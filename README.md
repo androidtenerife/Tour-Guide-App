@@ -55,4 +55,5 @@ Your project will be evaluated using the Tour Guide App project rubric.
 </td> <!-- ngIf: settings.showReviewerTips --> <!-- ngIf: settings.showCompletedChecklist --> </tr><!-- end ngRepeat: rubricItem in section.rubric_items --> </tbody> </table> </div><!-- end ngRepeat: section in rubric.sections --> </div> <!-- ngIf: ctrl.rubric.stand_out --> </div>
 
 ![image](https://github.com/androidtenerife/Tour_Guide_App/blob/master/Udacity%20proyect%206.jpg)
+![Image 2](https://github.com/androidtenerife/Tour_Guide_App/blob/master/Proyect%206%20home.png)
 
