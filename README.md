@@ -53,5 +53,6 @@ Your project will be evaluated using the Tour Guide App project rubric.
 </ul>
 <p>The code also has proper indentation when defining variables and methods.</p>
 </td> <!-- ngIf: settings.showReviewerTips --> <!-- ngIf: settings.showCompletedChecklist --> </tr><!-- end ngRepeat: rubricItem in section.rubric_items --> </tbody> </table> </div><!-- end ngRepeat: section in rubric.sections --> </div> <!-- ngIf: ctrl.rubric.stand_out --> </div>
-![IMAGE] (https://github.com/androidtenerife/Tour_Guide_App/blob/master/Udacity%20proyect%206.jpg)
+
+![image](https://github.com/androidtenerife/Tour_Guide_App/blob/master/Udacity%20proyect%206.jpg)
 
