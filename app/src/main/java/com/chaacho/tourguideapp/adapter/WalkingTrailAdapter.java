@@ -5,6 +5,7 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 
@@ -26,11 +27,14 @@ public class WalkingTrailAdapter extends ArrayAdapter<WalkingTrail> {
             convertView = LayoutInflater.from(getContext()).inflate(R.layout.card_walking_trail, parent, false);
         }
         // Lookup view for data population
+        ImageView ivImage = convertView.findViewById(R.id.ivImage);
         TextView tvTitle = (TextView) convertView.findViewById(R.id.tvTitle);
         TextView tvShortDescription = convertView.findViewById(R.id.tvShortDescription);
+
         // Populate the data into the template view using the data object
         tvTitle.setText(walkingTrail.getTitleWalkingTrail());
         tvShortDescription.setText(walkingTrail.getShortDescrWalkingTrail());
+        ivImage.setImageResource(walkingTrail.getSrcImageWalkingTrail());
         // Return the completed view to render on screen
         return convertView;
     }
