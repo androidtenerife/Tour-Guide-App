@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.chaacho.tourguideapp.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home">
+
+        <action
+            android:id="@+id/action_HomeFragment_to_HomeSecondFragment"
+            app:destination="@id/nav_home_second" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_gallery"
+            app:destination="@id/nav_gallery" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_slideshow"
+            app:destination="@id/nav_slideshow" />
+
+        <action
+            android:id="@+id/action_nav_home_to_nav_city"
+            app:destination="@id/nav_city" />
+        <action
+            android:id="@+id/action_nav_home_to_show"
+            app:destination="@id/nav_show" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_about"
+            app:destination="@id/nav_about" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_walk2"
+            app:destination="@id/nav_walk" />
+        <action
+            android:id="@+id/action_nav_home_to_nav_beach"
+            app:destination="@id/nav_beach" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_home_second"
+        android:name="com.chaacho.tourguideapp.ui.HomeSecond"
+        android:label="@string/home_second"
+        tools:layout="@layout/home_second_fragment">
+        <action
+            android:id="@+id/action_HomeSecondFragment_to_HomeFragment"
+            app:destination="@id/nav_home" />
+
+        <argument
+            android:name="myArg"
+            app:argType="string" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_gallery"
+        android:name="com.chaacho.tourguideapp.ui.gallery.GalleryFragment"
+        android:label="@string/menu_gallery"
+        tools:layout="@layout/fragment_gallery">
+        <action
+            android:id="@+id/action_nav_gallery_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_slideshow"
+        android:name="com.chaacho.tourguideapp.ui.slideshow.SlideshowFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_slideshow">
+        <action
+            android:id="@+id/action_nav_slideshow_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_walk"
+        android:name="com.chaacho.tourguideapp.ui.walk.Walk"
+        android:label="@string/menu_walk"
+        tools:layout="@layout/fragment_walk" >
+        <action
+            android:id="@+id/action_nav_walk_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_beach"
+        android:name="com.chaacho.tourguideapp.ui.beach.Beach"
+        android:label="@string/menu_beach"
+        tools:layout="@layout/fragment_beach">
+        <action
+            android:id="@+id/action_nav_beach_to_nav_home"
+            app:destination="@id/nav_home" />
+    </fragment>
+    <fragment
+        android:id="@+id/nav_city"
+        android:name="com.chaacho.tourguideapp.ui.city.City"
+        android:label="@string/menu_city"
+        tools:layout="@layout/fragment_city">
+
+    </fragment>
+    <fragment
+        android:id="@+id/nav_show"
+        android:name="com.chaacho.tourguideapp.ui.show.Show"
+        android:label="@string/menu_show"
+        tools:layout="@layout/fragment_show">
+
+    </fragment>
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.chaacho.tourguideapp.ui.about.About"
+        android:label="@string/menu_about"
+        tools:layout="@layout/fragment_about">
+
+    </fragment>
+</navigation>

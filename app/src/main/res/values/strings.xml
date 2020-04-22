@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="home_second">Home Second</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="menu_walk">Walk Trail</string>
+    <string name="menu_beach">Beach</string>
+    <string name="menu_city">City</string>
+    <string name="menu_show">Show</string>
+    <string name="menu_about">About us</string>
+    <string name="tour_guide_app">Tour Guide App</string>
+    <string name="info_chaacho_com">info@chaacho.com</string>
+    <string name="text_title_about">About Tour Guide App</string>
+    <string name="text_home">Welcome to Tenerife</string>
+    <string name="text_about">Tour Guide App: Is a project developed by: Herbert Rodríguez.\n Is the
+        project #6 from the Nanodegree Basic Android Developer at Udacity. \n\n
+Tenerife is the chosen city. It is the place where I reside. In this app you can see a small number
+        of interesting and very varied sites. \n\n
+From the mountain, through the city to the beach and an entertainment area. \n\n
+I hope you visit Tenerife a spectacular site. \n\n For more info keep in touch at info@chaacho.com</string>
+    <string name="welcome_to_tenerife">Welcome to Tenerife</string>
+</resources>
