@@ -35,6 +35,7 @@ public class WalkingTrailAdapter extends ArrayAdapter<WalkingTrail> {
         tvTitle.setText(walkingTrail.getTitleWalkingTrail());
         tvShortDescription.setText(walkingTrail.getShortDescrWalkingTrail());
         ivImage.setImageResource(walkingTrail.getSrcImageWalkingTrail());
+        //Not required go to Details.
         // Return the completed view to render on screen
         return convertView;
     }
