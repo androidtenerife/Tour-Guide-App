@@ -15,6 +15,7 @@
             android:layout_width="600dp"
             android:layout_height="300dp"
             android:layout_weight="1"
+            android:contentDescription="@string/imageHeader"
             android:textAlignment="viewStart"
             app:srcCompat="@drawable/ic_menu_gallery" />
 
@@ -29,7 +30,7 @@
                 android:id="@+id/tvTitle"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="TextView"
+                android:text="@string/title_of_beach"
                 android:textColor="@color/colorPrimary"
                 android:textSize="@dimen/font_sub_title_size" />
 
@@ -38,7 +39,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:fadeScrollbars="true"
-                android:text="TextView"
+                android:text="@string/short_description"
                 app:autoSizeTextType="none" />
 
         </LinearLayout>
