@@ -69,5 +69,22 @@ I hope you visit Tenerife a spectacular site. \n\n For more info keep in touch a
     <string name="icod_vinos_descr">The historic center of Icod de los Vinos is another one worth a visit,
                         although the part that is best preserved is much smaller, basically the one
                         that surrounds the Plaza de la Pila.</string>
+    <string name="arona">Arona en Colores \nCity: Las Galletas</string>
+    <string name="arona_descr">Arona in colors is a multicolored urban party. It will be held this
+                         Saturday June 14 from 10 a.m. to 12 p.m.</string>
+    <string name="noche_azul">Noche Azul \nCity: Los Cristianos.</string>
+    <string name="noche_azul_desc">The blue night returns to Los Cristianos, on August 22 the night will
+                        be filled with light, music, fireworks, organizes the Christian Town Hall,
+                        municipality of Arona.</string>
+    <string name="galletas">Arona en colores\nCity: Las Galletas</string>
+    <string name="galletas_descr">Arona in colors arrives at the Cookies. Multicolor Urban Party.
+                        Music and street events, you can\'t miss it. Organized by the City Council
+        of Arona, Los Cristianos. We wait for you
+                        this coming Saturday June 15.</string>
+    <string name="gala">Gala Solidaria \nCity:Los Cristianos</string>
+    <string name="gala_descr">Solidarity gala, a child a meal a book.
+                        Participate in this musical event tribute to the music of all time, bolero
+                        rock, pop, dance. Infanta Leonor Auditorium.
+                        Organized by Rotary Club Tenerife Sur.</string>
 
 </resources>
