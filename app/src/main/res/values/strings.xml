@@ -47,4 +47,27 @@ I hope you visit Tenerife a spectacular site. \n\n For more info keep in touch a
                         Buenavista del Norte and Santiago del Teide. Some cliffs open and show inlets
                         and small beaches that are a joy. For example, this one, near Puerto de Los
                         Gigantes: nice, pretty.</string>
+    <string name="lalaguna">City La Laguna \nLa Laguna.</string>
+    <string name="lalaguna_desc">The old capital of Tenerife and the former headquarters of the general
+                         captaincy of the Canary Islands, something like the de facto capital of the
+                         Canary archipelago; the only city declared a World Heritage Site by UNESCO
+                         in the Canary Islands; the model for all Spanish colonial cities in the
+                         New World. La Laguna is the jewel in the crown of the cultural heritage
+                        of the north of Tenerife and the entire island.</string>
+    <string name="la_orotava">City of La Orotava \n La Orotava</string>
+    <string name="la_orotava_descr">The town of La Orotava is another essential in the north of Tenerife.
+                        It was the first town that became independent from La Laguna and obtained
+                        the title of town, hence its proud inhabitants continue to be called
+                        \"villeros\". Already from the road, the red dome of the church of La
+                        Concepción warns you that you are approaching a city with character.,</string>
+    <string name="puerto_cruz">Urban Musseum \nPuerto de la Cruz.</string>
+    <string name="puerto_cruz_descr">When we arrived in Puerto de la Cruz we had no idea that we would
+                        find a large open-air museum of urban art in its fishing neighborhood,
+                        La Ranilla. The Puerto Street Art project surprised us and we liked it so
+                        much that we dedicated an entire article to it.</string>
+    <string name="icod_vinos">"City of Icod de los Vinos \nIcod de los Vinos</string>
+    <string name="icod_vinos_descr">The historic center of Icod de los Vinos is another one worth a visit,
+                        although the part that is best preserved is much smaller, basically the one
+                        that surrounds the Plaza de la Pila.</string>
+
 </resources>
