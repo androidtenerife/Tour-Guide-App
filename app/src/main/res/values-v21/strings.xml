@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="app_name">Tour Guide App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="home_second">Home Second</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="menu_walk">Walk Trail</string>
     <string name="menu_beach">Beach</string>
     <string name="menu_city">City</string>
@@ -7,8 +19,89 @@
     <string name="menu_about">About us</string>
     <string name="tour_guide_app">Tour Guide App</string>
     <string name="info_chaacho_com">info@chaacho.com</string>
+    <string name="text_title_about">About Tour Guide App</string>
+    <string name="text_home">Welcome to Tenerife</string>
+    <string name="text_about">Tour Guide App: Is a project developed by: Herbert Rodríguez.\n Is the
+        project #6 from the Nanodegree Basic Android Developer at Udacity. \n\n
+Tenerife is the chosen city. It is the place where I reside. In this app you can see a small number
+        of interesting and very varied sites. \n\n
+From the mountain, through the city to the beach and an entertainment area. \n\n
+I hope you visit Tenerife a spectacular site. \n\n For more info keep in touch at info@chaacho.com</string>
     <string name="welcome_to_tenerife">Welcome to Tenerife</string>
+    <string name="short_description">Short Description</string>
     <string name="tvName">Name</string>
     <string name="image_of_activity">Image of Activity</string>
     <string name="imageHeader">Image Header Logo</string>
+    <string name="elduque">El Duque \nLocation:Adeje"</string>
+    <string name="elduque_des">Everything we have to say in favor of El Duque Beach is in the image.
+                         The beach is located in the municipality of Adeje, in the Southwest, it is
+                        390 m long and has one bad thing: it is so beautiful that it gets crowded.</string>
+    <string name="teresitas">Las Teresitas</string>
+    <string name="teresitas_descr">Las Teresitas beach is three times bigger than El Duque beach (1,300
+                        m), it is in the town of San Andrés (municipality of Santa Cruz de Tenerife)
+                         and it has a medium degree of occupation, neither high nor low. In its favor,
+                        being the Canary Islands so touristy, is the fact that it is not embedded in a
+                        marsh of buildings, but isolated. You have to go.</string>
+    <string name="gigantes">De los Gigantes\nLocation:Los Gigantes</string>
+    <string name="gigantes_desc">Los Gigantes accidentally dispose of themselves between the terms of
+                        Buenavista del Norte and Santiago del Teide. Some cliffs open and show inlets
+                        and small beaches that are a joy. For example, this one, near Puerto de Los
+                        Gigantes: nice, pretty.</string>
+    <string name="lalaguna">City La Laguna \nLa Laguna.</string>
+    <string name="lalaguna_desc">The old capital of Tenerife and the former headquarters of the general
+                         captaincy of the Canary Islands, something like the de facto capital of the
+                         Canary archipelago; the only city declared a World Heritage Site by UNESCO
+                         in the Canary Islands; the model for all Spanish colonial cities in the
+                         New World. La Laguna is the jewel in the crown of the cultural heritage
+                        of the north of Tenerife and the entire island.</string>
+    <string name="la_orotava">City of La Orotava \n La Orotava</string>
+    <string name="la_orotava_descr">The town of La Orotava is another essential in the north of Tenerife.
+                        It was the first town that became independent from La Laguna and obtained
+                        the title of town, hence its proud inhabitants continue to be called
+                        \"villeros\". Already from the road, the red dome of the church of La
+                        Concepción warns you that you are approaching a city with character.,</string>
+    <string name="puerto_cruz">Urban Musseum \nPuerto de la Cruz.</string>
+    <string name="puerto_cruz_descr">When we arrived in Puerto de la Cruz we had no idea that we would
+                        find a large open-air museum of urban art in its fishing neighborhood,
+                        La Ranilla. The Puerto Street Art project surprised us and we liked it so
+                        much that we dedicated an entire article to it.</string>
+    <string name="icod_vinos">"City of Icod de los Vinos \nIcod de los Vinos</string>
+    <string name="icod_vinos_descr">The historic center of Icod de los Vinos is another one worth a visit,
+                        although the part that is best preserved is much smaller, basically the one
+                        that surrounds the Plaza de la Pila.</string>
+    <string name="arona">Arona en Colores \nCity: Las Galletas</string>
+    <string name="arona_descr">Arona in colors is a multicolored urban party. It will be held this
+                         Saturday June 14 from 10 a.m. to 12 p.m.</string>
+    <string name="noche_azul">Noche Azul \nCity: Los Cristianos.</string>
+    <string name="noche_azul_desc">The blue night returns to Los Cristianos, on August 22 the night will
+                        be filled with light, music, fireworks, organizes the Christian Town Hall,
+                        municipality of Arona.</string>
+    <string name="galletas">Arona en colores\nCity: Las Galletas</string>
+    <string name="galletas_descr">Arona in colors arrives at the Cookies. Multicolor Urban Party.
+                        Music and street events, you can\'t miss it. Organized by the City Council
+        of Arona, Los Cristianos. We wait for you
+                        this coming Saturday June 15.</string>
+    <string name="gala">Gala Solidaria \nCity:Los Cristianos</string>
+    <string name="gala_descr">Solidarity gala, a child a meal a book.
+                        Participate in this musical event tribute to the music of all time, bolero
+                        rock, pop, dance. Infanta Leonor Auditorium.
+                        Organized by Rotary Club Tenerife Sur.</string>
+    <string name="magic">Magic Forest \n10 Km. Easy hike</string>
+    <string name="magic_descr">Trees full of lichens, giant ferns and moos pad. Botanically
+                interesting hike through an enchanted evergreen laurel forest with variety
+                of endemic species of trees and plants. A must-see in Tenerife!</string>
+    <string name="masca">Top Tour Masca \n8.5 Km. Medium hike.</string>
+    <string name="masca_descr">High-constrast tour through lush vegetation and impressive gorges.
+    Places of barter trades and threshing floors remember former times.
+    Grand finale is in one of the most picturesque mountain villages of Tenerife.
+        High-constrast tour through lush vegetation and impressive gorges.</string>
+    <string name="colorful">Colourful Palm-Valley \n7 Km. Easy hike.</string>
+    <string name="colorful_descr">Easy ascent through terraced fields where the locals still grow potatoes, pumpkins and wine.
+    Enjoy a powerful landscape with old volcanoes, barren lava rocks and subtropical fog forest.
+        Plenty of interesting things to discover in a small space!</string>
+    <string name="sheph">Shepherds Paths \n8 Km. Medium hike.</string>
+    <string name="sheph_descr">This hiking trail on an ancient goat path leads to on of the most remoted places in Tenerife.
+                        Experience firsthand former times in the nature reserve of Teno.
+                        Optional goat cheese and wine at a local bar. Rural Tenerife at its best!
+                This hiking trail on an ancient goat path leads to on of th emost remoted places in Tenerife.</string>
 </resources>

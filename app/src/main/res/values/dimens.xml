@@ -7,5 +7,5 @@
     <dimen name="fab_margin">16dp</dimen>
     <dimen name="font_title_app">24sp</dimen>
     <dimen name="font_sub_title_size">16sp</dimen>
-
+<dimen name="hight_content">270dp</dimen>
 </resources>
