@@ -5,7 +5,6 @@
     android:layout_height="match_parent"
     tools:context=".ui.walk.Walk">
 
-    <!-- TODO: Update blank fragment layout -->
 
     <ListView
         android:id="@+id/lvWalkingTrails"

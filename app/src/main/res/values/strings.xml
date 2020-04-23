@@ -28,4 +28,8 @@ Tenerife is the chosen city. It is the place where I reside. In this app you can
 From the mountain, through the city to the beach and an entertainment area. \n\n
 I hope you visit Tenerife a spectacular site. \n\n For more info keep in touch at info@chaacho.com</string>
     <string name="welcome_to_tenerife">Welcome to Tenerife</string>
+    <string name="short_description">Short Description</string>
+    <string name="tvName">Name</string>
+    <string name="image_of_activity">Image of Activity</string>
+    <string name="imageHeader">Image Header Logo</string>
 </resources>

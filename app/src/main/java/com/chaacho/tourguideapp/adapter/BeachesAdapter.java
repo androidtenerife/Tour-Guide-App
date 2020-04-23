@@ -13,7 +13,6 @@ import androidx.annotation.Nullable;
 
 import com.chaacho.tourguideapp.R;
 import com.chaacho.tourguideapp.pojo.Beaches;
-import com.chaacho.tourguideapp.pojo.WalkingTrail;
 
 import java.util.ArrayList;
 
@@ -41,7 +40,5 @@ public class BeachesAdapter extends ArrayAdapter<Beaches> {
 
     public BeachesAdapter(Context context, ArrayList<Beaches>beaches) {
         super(context, 0,beaches);
-
-
     }
 }

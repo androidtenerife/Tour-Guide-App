@@ -6,7 +6,6 @@
     android:layout_height="match_parent"
     tools:context=".ui.about.About">
 
-    <!-- TODO: Update blank fragment layout -->
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
@@ -16,7 +15,8 @@
             android:id="@+id/imageView2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:src="@drawable/icon_tour" />
+            android:src="@drawable/icon_tour"
+            android:contentDescription="@string/imageHeader" />
 
         <TextView
             android:id="@+id/textView2"

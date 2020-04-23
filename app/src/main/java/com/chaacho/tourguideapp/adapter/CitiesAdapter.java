@@ -12,7 +12,6 @@ import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 import com.chaacho.tourguideapp.R;
-import com.chaacho.tourguideapp.pojo.Beaches;
 import com.chaacho.tourguideapp.pojo.Cities;
 
 import java.util.ArrayList;

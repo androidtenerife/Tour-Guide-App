@@ -1,10 +1,6 @@
 package com.chaacho.tourguideapp.ui.beach;
 
 import android.os.Bundle;
-
-import androidx.annotation.Nullable;
-import androidx.fragment.app.Fragment;
-
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -12,11 +8,12 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
+
 import com.chaacho.tourguideapp.R;
 import com.chaacho.tourguideapp.adapter.BeachesAdapter;
-import com.chaacho.tourguideapp.adapter.WalkingTrailAdapter;
 import com.chaacho.tourguideapp.pojo.Beaches;
-import com.chaacho.tourguideapp.pojo.WalkingTrail;
 
 import java.util.ArrayList;
 
@@ -27,12 +24,10 @@ import java.util.ArrayList;
  * create an instance of this fragment.
  */
 public class Beach extends Fragment {
-    // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_PARAM1 = "param1";
     private static final String ARG_PARAM2 = "param2";
 
-    // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
 
@@ -48,7 +43,6 @@ public class Beach extends Fragment {
      * @param param2 Parameter 2.
      * @return A new instance of fragment Beach.
      */
-    // TODO: Rename and change types and number of parameters
     public static Beach newInstance(String param1, String param2) {
         Beach fragment = new Beach();
         Bundle args = new Bundle();

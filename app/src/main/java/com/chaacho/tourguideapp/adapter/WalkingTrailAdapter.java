@@ -8,13 +8,11 @@ import android.widget.ArrayAdapter;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 
 import com.chaacho.tourguideapp.R;
 import com.chaacho.tourguideapp.pojo.WalkingTrail;
-import com.chaacho.tourguideapp.ui.walk.Walk;
 
 import java.util.ArrayList;
 

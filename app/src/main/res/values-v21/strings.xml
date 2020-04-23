@@ -8,4 +8,7 @@
     <string name="tour_guide_app">Tour Guide App</string>
     <string name="info_chaacho_com">info@chaacho.com</string>
     <string name="welcome_to_tenerife">Welcome to Tenerife</string>
+    <string name="tvName">Name</string>
+    <string name="image_of_activity">Image of Activity</string>
+    <string name="imageHeader">Image Header Logo</string>
 </resources>

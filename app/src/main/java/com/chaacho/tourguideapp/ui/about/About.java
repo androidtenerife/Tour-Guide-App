@@ -1,12 +1,11 @@
 package com.chaacho.tourguideapp.ui.about;
 
 import android.os.Bundle;
-
-import androidx.fragment.app.Fragment;
-
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import androidx.fragment.app.Fragment;
 
 import com.chaacho.tourguideapp.R;
 
@@ -17,12 +16,10 @@ import com.chaacho.tourguideapp.R;
  * create an instance of this fragment.
  */
 public class About extends Fragment {
-    // TODO: Rename parameter arguments, choose names that match
     // the fragment initialization parameters, e.g. ARG_ITEM_NUMBER
     private static final String ARG_PARAM1 = "param1";
     private static final String ARG_PARAM2 = "param2";
 
-    // TODO: Rename and change types of parameters
     private String mParam1;
     private String mParam2;
 
@@ -38,7 +35,6 @@ public class About extends Fragment {
      * @param param2 Parameter 2.
      * @return A new instance of fragment About.
      */
-    // TODO: Rename and change types and number of parameters
     public static About newInstance(String param1, String param2) {
         About fragment = new About();
         Bundle args = new Bundle();
