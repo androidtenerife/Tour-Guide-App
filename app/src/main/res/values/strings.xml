@@ -32,4 +32,19 @@ I hope you visit Tenerife a spectacular site. \n\n For more info keep in touch a
     <string name="tvName">Name</string>
     <string name="image_of_activity">Image of Activity</string>
     <string name="imageHeader">Image Header Logo</string>
+    <string name="elduque">El Duque \nLocation:Adeje"</string>
+    <string name="elduque_des">Everything we have to say in favor of El Duque Beach is in the image.
+                         The beach is located in the municipality of Adeje, in the Southwest, it is
+                        390 m long and has one bad thing: it is so beautiful that it gets crowded.</string>
+    <string name="teresitas">Las Teresitas</string>
+    <string name="teresitas_descr">Las Teresitas beach is three times bigger than El Duque beach (1,300
+                        m), it is in the town of San Andrés (municipality of Santa Cruz de Tenerife)
+                         and it has a medium degree of occupation, neither high nor low. In its favor,
+                        being the Canary Islands so touristy, is the fact that it is not embedded in a
+                        marsh of buildings, but isolated. You have to go.</string>
+    <string name="gigantes">De los Gigantes\nLocation:Los Gigantes</string>
+    <string name="gigantes_desc">Los Gigantes accidentally dispose of themselves between the terms of
+                        Buenavista del Norte and Santiago del Teide. Some cliffs open and show inlets
+                        and small beaches that are a joy. For example, this one, near Puerto de Los
+                        Gigantes: nice, pretty.</string>
 </resources>
