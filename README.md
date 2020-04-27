@@ -1,12 +1,12 @@
 # Tour Guide App
 
-For this project, you'll be making a Tour Guide app. This is an app with multiple screens, each of which lists a kind of attraction for a given city, national park, or historical monument. For instance, an app focused on Mountain View, CA might include a list of startup headquarters as well as a list of restaurants and a list of parks.
+For this project, they asked to create a tourist guide application. It has been developed with support for screen rotation (Portait / Landscape) application with multiple screens, each of which lists a type of attraction.
 
-Once you've decided on the location you'd like to show off, you'll want to build the structure of your app. Using the skills from the Miwok app, you'll make multiple screens, each containing a list. You will use a ViewPager plus TabLayout (or Navigation Drawer) combined with Fragments to move between screens.
+Has :
+1 RecyclerView, Adapter, Custom classes, All Strings, dimensions, theme of the app, must go separately. It is a requirement and in addition to good coding practices.
+The images have been placed in their respective drawables directory in the corresponding folder for the support of different types of resolutions.
 
-Next, you'll fill in those lists with list items, populated using a custom adapter. It may make sense for some lists to include information such as a phone number or business hours, but for others it may make more sense to have a photograph. Design your adapter based on the information you would like to show.
-
-If you need help generating bitmaps for your project, refer back to the Generating Your Own Bitmaps concept.
+Note: It was not a requirement that links to another activity when you tap on the recyclerview images.
 
 
 Your project will be evaluated using the Tour Guide App project rubric.
